@@ -1,5 +1,5 @@
 <?php
 
 This is sample
-edit in remote server
+
 ?>
