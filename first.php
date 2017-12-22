@@ -1,13 +1,6 @@
 <?php
+include 'header.php';
+echo date("d");
 
-This is sample
-edit in remote server 
-  another change
-  anothrerer 
-  
-
-  
-  thaawa thawa
-  add
-  bbbbbb
 ?>
+<a href="sec.php"> Second file</a>;
